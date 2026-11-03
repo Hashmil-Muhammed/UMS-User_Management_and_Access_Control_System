@@ -32,10 +32,10 @@
   <strong>User Management System (UMS)</strong> is a production-ready, full-stack web application designed for robust identity management, multi-tier role-based access control (RBAC), and an administrator review pipeline. Built with <strong>Next.js 16 (App Router)</strong>, <strong>TypeScript</strong>, <strong>Tailwind CSS</strong>, and <strong>Supabase (Auth + PostgreSQL RLS)</strong>.
 </p>
 
+https://github.com/user-attachments/assets/8c868d27-638e-4d0a-8522-74b67a8a9ce9
 <hr />
 
 
-https://github.com/user-attachments/assets/8c868d27-638e-4d0a-8522-74b67a8a9ce9
 
 
 
