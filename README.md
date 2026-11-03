@@ -342,7 +342,9 @@ The application does not use any hardcoded admin passwords. To safely promote an
 ## ☁️ Deployment
 
 The application is deployed on Vercel. 
+
 <strong>Live Web Application:</strong> <a href="https://ums-user-management-and-access-control-system-kkc9fb8sv.vercel.app/">https://ums-user-management-and-access-control-system.app/</a>
+https://ums-user-management-and-access-control-system-kkc9fb8sv.vercel.app/
 
 ---
 
