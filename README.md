@@ -339,14 +339,7 @@ The application does not use any hardcoded admin passwords. To safely promote an
 4. Navigate to `http://localhost:3000/admin/login` and sign in with your credentials.
 
 ---
-## ☁️ Deployment
 
-The application is deployed on Vercel. 
-
-**Live Web Application:** <a "https://ums-user-management-and-access-control-system-kkc9fb8sv.vercel.app/">https://ums-user-management-and-access-control-system.app/</a>
-
-
----
 ## ☁️ Deployment
 
 The application is deployed on Vercel.
