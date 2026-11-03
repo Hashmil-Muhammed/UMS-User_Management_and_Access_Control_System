@@ -351,4 +351,4 @@ The application is deployed on Vercel.
 ## 👨💻 Author
 
 **Hashmil Muhammed**  
-*Full-Stack Engineer & Technical Assessment Candidate*
+*Full-Stack Engineer & AI/ML Developer*
